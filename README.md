@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a noober in Artificial intelligence algorithms. 
+I’m studying about th Artificial intelligence algorithms. 
 
-- 🌱 Information Hiding&Detection.
+- 🌱 Information Hiding & Detection.
 - 🔭 transfer learning
 - 😄 Blog: https://junono.com
 - 📫 email：wjy9754@stu.hqu.edu.cn
