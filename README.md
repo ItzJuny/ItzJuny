@@ -2,11 +2,8 @@
 
 I’m studying about the Artificial intelligence algorithms. 
 
-- 🌱 Information Hiding & Detection.
-- 🔭 transfer learning
-- 😄 Blog: https://junono.com
-- 📫 email：wjy9754@stu.hqu.edu.cn
+- 🌱 VoIP Steganalysis
+- 🔭 Audio Deepfake & Detection
+- 📫 email：wjy9754@stu.hqu.edu.cn;wujy298@mail2.sysu.edu.cn
 - ⚡ Laboratory: 
-  - Huaqiao University, Xiamen, China
-  - Xiamen Key Laboratory of Data Security and Blockchain Technology, Xiamen, China
-  - Fujian Key Laboratory of Big Data Intelligence and Security, Xiamen, China
+  - Sun Yat-Sen University, Guangdong, China
