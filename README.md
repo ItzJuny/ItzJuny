@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m studying about the AIGC defend algorithms. 
+My current research field is AIGC security, mainly focusing on audio deepfake detection and localization.
 
 - 📫 email：wujy298@mail2.sysu.edu.cn
 - ⚡ Laboratory: Sun Yat-Sen University, Guangdong, China
